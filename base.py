@@ -1,9 +1,6 @@
 import os
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 1fd1be4 (calculator modul add)
 def writeLog(text):
     try:
         with open('log.txt', 'a') as f:
@@ -27,9 +24,3 @@ def initLog():
 
 def deleteLog():
     os.remove('log.txt')
-
-
-<<<<<<< HEAD
-writeLog('asd')
-=======
->>>>>>> 1fd1be4 (calculator modul add)

@@ -25,7 +25,7 @@ menuActions = {
     '1': calculator,
     '2': readLog,
     '3': clearLog,
-    '5': terminate
+    '4': terminate
 }
 
 
