@@ -84,6 +84,3 @@ def main():
     except Exception as error:
         print(error)
 
-
-# def foo():
-#     return 'bar'
